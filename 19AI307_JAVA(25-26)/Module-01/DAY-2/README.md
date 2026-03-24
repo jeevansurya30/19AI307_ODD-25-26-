@@ -47,8 +47,8 @@ Print "Floor {number}" where number is the floor entered.
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: Raghul S
-RegisterNumber: 212222040128 
+Developed by:Jeevansurya k
+RegisterNumber: 212222040061
 */
 import java.util.*;
 public class Main
