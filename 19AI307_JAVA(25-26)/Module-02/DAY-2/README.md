@@ -42,8 +42,8 @@ Use the object to call the non-static method.
  ```
 /*
 Program to implement a Methods using Java
-Developed by: RAGHUL S
-RegisterNumber: 212222040128  
+Developed by: Jeevansurya k
+RegisterNumber: 212222040061
 */
 ```
 
